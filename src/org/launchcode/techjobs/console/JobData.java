@@ -152,23 +152,3 @@ public class JobData {
             e.printStackTrace();
         }
     }
-
-//    public static findByValue(String searchterm){
-//
-//        loadData();
-//
-//        ArrayList<HashMap<String, String>> jobs = new ArrayList<>();
-//
-//        for (HashMap<String, String> job : allJobs) {
-//
-//            Collection<String aVlaue = job.values()>
-//
-//            for (String value: aVlaue){
-//                if (value.contains(searchterm){
-//
-//            }
-//
-//            }
-//        }
-//    }
-}
